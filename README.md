@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Python e C++
 - 📫 Contate-me no email : contatosamuelak@hotmail.com
-- 😄 Pronouns: Ele/dele
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuelkoehler&show_icons=true&theme=radical)
 
